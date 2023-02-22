@@ -30,4 +30,4 @@ To play a song, select the song from the list and click on the "Play" button. To
 To adjust the volume of the player, use the volume slider.
 Author
 
-This application was written by [Anonymous].
+This application was written by [Adrii Tonkikh].
